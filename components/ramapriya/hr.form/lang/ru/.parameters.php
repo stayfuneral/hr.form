@@ -1,0 +1,3 @@
+<?php
+
+$MESS['HR_FORM_PARAM_WEBHOOK_TITLE'] = '';
